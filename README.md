@@ -6,7 +6,7 @@
 ### 2020.02
 
 |Num.|What?|Organized?|Date|
-|---|---|---|---|
+|---|---|-|---|
 |01|- softmax와 score 정규화 <br> - fully connected? | N | 2020.02 |
 |02|- Interactive Graph with Plotly(cufflinks) |N|2020.02 |
 |03|- Max Pooling in CNN <br> - Loss Function Vs. Cost Function | N | 2020.02 |
