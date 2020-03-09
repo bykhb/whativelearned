@@ -1,7 +1,7 @@
 # whativelearned
 
 
-### Overview (Monthly)
+### Overview (Yearly)
 
 ### 2020
 |Num.|What?|Organized?|Date|
@@ -20,3 +20,7 @@
 |12|- Big Size Dataset to Python? <br> - Imbalanced Classificatino(using GAN) <br> - kubeflow | N | 2020.02 |
 
 ---------------------------------------------------------------------------------------------------------------
+### Overview (Yearly)
+
+### 2021
+
