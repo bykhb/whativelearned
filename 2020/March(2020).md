@@ -17,3 +17,5 @@
   (3). LIME <br>
   (4). Shape <br>
   
+- Customer Profiling 
+  (1). Feature Importance <br>
