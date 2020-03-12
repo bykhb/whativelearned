@@ -2,9 +2,6 @@
   (1). 가 <br>
   (2). 나 <br>
 
-
-
-
 - label 관리
 
 - Imbalanced Classification
@@ -19,3 +16,8 @@
   
 - Customer Profiling 
   (1). Feature Importance <br>
+
+
+- DDL
+  (1). Partitioned Table
+  (2). 
