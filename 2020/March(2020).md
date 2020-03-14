@@ -16,9 +16,6 @@
 - 모델 평가지표
 
   (1).
-  (2).
-  (3).
-  (4).
   
 ------------------------------------------------------
 
@@ -38,8 +35,7 @@
 
 - DDL
 
-  (1). Partitioned Table vs Wildcard Table
-  (2). 
+  (1). Partitioned Table vs Wildcard Table 
   
 ------------------------------------------------------
 - Data Analytics
