@@ -7,7 +7,8 @@
   (4). lstm <br>
         - batch_size
         - memory cell
-        - 
+        - dense layer
+        - compile -> optimizer, loss, metrics
 
 ------------------------------------------------------
 - score 정규화
