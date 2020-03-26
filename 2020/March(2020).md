@@ -5,10 +5,9 @@
   (2). prophet <br>
   (3). lightgbm <br>
   (4). lstm <br>
-        - batch_size
-        - memory cell
-        - dense layer
-        - compile -> optimizer, loss, metrics
+        - layer : batch_size, memory cell, dense layer
+        - fit : epochs, batch_size, validation_split
+        - compile : optimizer, loss, metrics
 
 ------------------------------------------------------
 - score 정규화
