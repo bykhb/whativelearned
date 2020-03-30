@@ -72,6 +72,6 @@
   (1). KNIME github <br>
   (2). Deep code <br>
   (3). pickle 형식이란?? <br>
-  (3).  <br>
+  (3). 제로샷, transfer learningd <br>
   
 ------------------------------------------------------
