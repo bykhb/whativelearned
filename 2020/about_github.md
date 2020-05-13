@@ -1,6 +1,0 @@
-- gist
-- python to github
-- githu.io ??
-- 
-- 
-- 
