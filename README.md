@@ -1,7 +1,6 @@
 ### Overview (Yearly)
 
 ### 2020
-
 |Num.|What?|
 |---|---|---|---|
 |01|- ML Score/Probablity 원리와 정규화 |
