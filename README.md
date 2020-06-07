@@ -1,8 +1,9 @@
 ### Overview (Yearly)
 
 ### 2020
+
 |Num.|What?|
-|---|---|---|---|
+|---|---|
 |01|- ML Score/Probablity 원리와 정규화 |
 |02|- ML Label : 만들기, 관리 |
 |02|- ML Loss Function Vs. Cost Function |
