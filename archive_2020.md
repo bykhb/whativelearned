@@ -1,39 +1,18 @@
-- workflow
-
-  - apache airflow : task들 연결(made by airbnb)
-  - MS data project work flow (https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-  
-------------------------------------------------------------------------------------------------------------
-- set up network and http load balancers
-  - nginx : 웹서버(amazon linux, ubuntu linux, redhat linux)
-
-- web server / hosting
-
 - kubernetes
   - kubeflow
 
 - container
 - docker
 
-- model serving 
-  - train a model -> deploy -> online prediction
-  - single worker instance (in the cloud)????
-
 - distributed storage (gcs, s3, hdfs, cfs)
 
 - cluster resource mangaer(yarn, mesos, kubernetes)
-
-- real time data streams
-  - kinesis, kafka
 
 - module, library, framework, API, SDK
 
 - RestFUL API : 
 
-- 
-  
-
- ------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 - GPU
 
   - multi gpu
