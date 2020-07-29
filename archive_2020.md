@@ -25,36 +25,26 @@
   - pca
   - autoencoder
 
-- crawler 
-
+- crawler
 - no code : 앱시트, 앱메이커(google), honeycode(aws)
-
-
 ------------------------------------------------------
-- Algo
+- keras
+  - https://tykimos.github.io/index.html
 
-  - gradient descent > Analytic solution : more scalable, and more suitable for large number of features.
-    GD doesn't require to invert a matrix
-  
-  - pipeline : kubeflow
-  
-  - keras
-    - https://tykimos.github.io/index.html
-    
-  - zero shot
-  
-  - transfer learning
-  
-  - continuous learning
-  
-  - 코로나 : 과거 데이터 패턴을 통한 예측의 한계
-  
-  - online prediction vs. batch prediction 
-  
-  - Jukebox(OpenAI), 
-  
-  - BERT
-    - Find Tuning?
+- zero shot
+
+- transfer learning
+
+- continuous learning
+
+- 코로나 : 과거 데이터 패턴을 통한 예측의 한계
+
+- online prediction vs. batch prediction 
+
+- Jukebox(OpenAI), 
+
+- BERT
+  - Find Tuning?
   
 ------------------------------------------------------
 - Model Interpretation
