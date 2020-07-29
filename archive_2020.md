@@ -165,9 +165,10 @@
   
   - hadoop, map-reduce, spark
     - hadoop : 클러스터 환경에서 대용량 데이터에 대한 분산처리를 하는 소프트웨어 라이브러리
-    - map-reduce : 아파치 하둡 프로젝트의 서브 프로젝트로, 분산 컴퓨팅을 위한 프레임 워크
+      - map-reduce : 아파치 하둡 프로젝트의 서브 프로젝트로, 분산 컴퓨팅을 위한 프레임 워크
     - spark : 하둡위에서 동작할 수 있는 인메모리 프로세싱 엔진. stream processing(실시간 데이터처리)가 장점
     (https://3months.tistory.com/511)
+      - hadoop vs spark : 
     
   - 
   - 
