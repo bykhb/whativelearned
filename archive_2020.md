@@ -169,9 +169,9 @@
       
       
     - spark : 하둡위에서 동작할 수 있는 인메모리 프로세싱 엔진. stream processing(실시간 데이터처리)가 장점(분산처리기술)
-              scala언어 사용
+              scala언어 사용. zepplin을 활용하여 분석 용이
     (https://3months.tistory.com/511)
-      - hadoop vs spark : 
+
     
   - 
   - 
