@@ -1,10 +1,9 @@
 - workflow
 
   - apache airflow : task들 연결(made by airbnb)
-
   - MS data project work flow (https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-
-------------------------------------------------------
+  
+------------------------------------------------------------------------------------------------------------
 - set up network and http load balancers
   - nginx : 웹서버(amazon linux, ubuntu linux, redhat linux)
 
@@ -28,30 +27,29 @@
   - kinesis, kafka
 
 - module, library, framework, API, SDK
+
+- RestFUL API : 
+
+-
   
 
- ------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------
 - GPU
 
   - multi gpu
     - horovod
     
 ------------------------------------------------------
-- etc
-
-  - label encoding vs label encoding : [0 1 2 3] / [0 0 0 1], [0 0 1 0]
+- label encoding vs label encoding : [0 1 2 3] / [0 0 0 1], [0 0 1 0]
   
-  - dimensionality reduction 
-    - pca
-    - autoencoder
-    
-  - crawler 
-    - asd
-------------------------------------------------------
-- app 개발
+- dimensionality reduction 
+  - pca
+  - autoencoder
 
-  - no code : 앱시트, 앱메이커(구글)
-  - 
+- crawler 
+
+- no code : 앱시트, 앱메이커(google), honeycode(aws)
+
 
 ------------------------------------------------------
 - Algo
