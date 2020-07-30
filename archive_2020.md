@@ -1,62 +1,11 @@
-- kubernetes
-  - kubeflow
-
-- container
-- docker
-
-- distributed storage (gcs, s3, hdfs, cfs)
-
-- cluster resource mangaer(yarn, mesos, kubernetes)
-
-- module, library, framework, API, SDK
-
-- RestFUL API : 
-
-------------------------------------------------------------------------------------------------------------
-- GPU
-
-  - multi gpu
-    - horovod
-    
-------------------------------------------------------
-- label encoding vs label encoding : [0 1 2 3] / [0 0 0 1], [0 0 1 0]
-  
-- dimensionality reduction 
-  - pca
-  - autoencoder
-
 - crawler
 - no code : 앱시트, 앱메이커(google), honeycode(aws)
 ------------------------------------------------------
-- keras
-  - https://tykimos.github.io/index.html
-
-- zero shot
-
-- transfer learning
-
-- continuous learning
-
 - 코로나 : 과거 데이터 패턴을 통한 예측의 한계
-
-- online prediction vs. batch prediction 
 
 - Jukebox(OpenAI), 
 
-- BERT
-  - Find Tuning?
-  
 ------------------------------------------------------
-- Model Interpretation
-
-  - Feature Importance <br>
-  - PDF 
-  - LIME
-  - SHape
-  - causal ML(UBER)
-  - tensor watch
-  - casualNex
-  
   - <details><summary> AI 해석가능성 </summary>
     <p>
       AI가 태동하던 시절, 컴퓨터 과학자들은 컴퓨터에 사람의 정신을 일부나마 재현하려 시도했다. 
@@ -124,27 +73,6 @@
     </p>
     </details>
 
-------------------------------------------------------  
-- DB
-
-  - parquet: 컬럼 기반 데이터 저장 방식
-  (http://engineering.vcnc.co.kr/2018/05/parquet-and-spark/)
-  
-  - hadoop, map-reduce, spark
-    - hadoop : 클러스터 환경에서 대용량 데이터에 대한 분산처리를 하는 소프트웨어 라이브러리
-      - map-reduce : 아파치 하둡 프로젝트의 서브 프로젝트로, 분산 컴퓨팅을 위한 프레임 워크(분산처리기술)
-      - HDFS : 분산저장기술
-      - hive : SQL을 MapReduce로 변환해주는 서브프로젝트 (쿼리 최적화 어렵고 속도가 더 느려짐)
-      
-      
-    - spark : 하둡위에서 동작할 수 있는 인메모리 프로세싱 엔진. stream processing(실시간 데이터처리)가 장점(분산처리기술)
-              scala언어 사용. zepplin을 활용하여 분석 용이
-    (https://3months.tistory.com/511)
-
-    
-  - 
-  - 
-  
 ------------------------------------------------------
 - Data Storyteeling
 
